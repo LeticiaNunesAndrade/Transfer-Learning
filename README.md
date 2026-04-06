@@ -27,7 +27,7 @@ pip install torch torchvision scikit-learn matplotlib seaborn pillow
 ## Como executar
 
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/LeticiaNunesAndrade/Transfer-Learning.git
 cd Transfer-Learning
 jupyter notebook transfer_learning.ipynb
 ```
